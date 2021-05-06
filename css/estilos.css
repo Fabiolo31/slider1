@@ -1,0 +1,18 @@
+.carousel {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+}
+#imagen {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+.controles {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.controles button {
+    margin-right: 5px;
+}
