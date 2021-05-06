@@ -15,7 +15,7 @@ window.onload = function () {
     let $botonStop = document.querySelector('#stop');
     let intervalo;
 
-    // Funciones
+    // Funciones @Fabiolo31
 
     /**
      * Funcion que cambia la foto en la siguiente posicion
