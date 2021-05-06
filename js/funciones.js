@@ -18,7 +18,7 @@ window.onload = function () {
     // Funciones @Fabiolo31
 
     /**
-     * Funcion que cambia la foto en la siguiente posicion
+     * Funcion que cambia la foto en la siguiente posicionse
      */
     function pasarFoto() {
         if(posicionActual >= IMAGENES.length - 1) {
